@@ -1,2 +1,4 @@
-# 01_Insaid_Capstone_Telecom_loadData.ipynb
-telecom data base
+# insaid_capstone_1
+capstone project 1 - EDA
+
+telecom data analysis
